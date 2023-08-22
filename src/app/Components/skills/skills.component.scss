@@ -1,0 +1,22 @@
+#skills{
+    padding-top: 30px;
+    background: #e5e5e5;
+    padding-bottom: 5%;
+}
+
+#skills .container{
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+
+label{
+    font-size: 20px;
+
+}
+.progress{
+    height: 30px !important;
+    box-shadow: 2px 4px 5px gray, -2px -2px 5px white;
+}
+.progress:hover{
+    box-shadow: 2px 4px 5px white, -2px -2px 5px gray;
+}

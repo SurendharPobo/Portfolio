@@ -1,0 +1,19 @@
+#projects{
+    padding-top: 20px;
+    font-weight: bold;
+    background-color: white;
+    width: 100%;
+    height: auto;
+}
+
+#Project img{
+    width: auto;
+    height: 500px;
+    box-shadow: 0 0 5px rgb(134, 112, 234), 0 0 10px rgb(19, 25, 195);
+    transition: 1s;
+}
+
+#Project img:hover{
+    transform: scale(1.05);
+    transition: 1s;
+}
